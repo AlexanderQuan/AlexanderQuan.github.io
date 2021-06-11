@@ -9,5 +9,3 @@ This is a portfolio for my data analyst projects where I present interesting fin
 * SQL script and Data source can be found [here](https://github.com/alexquan12/NBA_TeamPerformance =250x250)
 
 ![](/Report_Images/TeamPerformance_Report.JPG)
-
-<img src="https://github.com/alexquan12/AlexQuan_Portfolio/blob/main/Report_Images/TeamPerformance_Report.JPG" width="48">
