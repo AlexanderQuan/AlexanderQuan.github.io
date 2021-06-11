@@ -9,4 +9,4 @@ This is a portfolio for my data analyst projects where I present interesting fin
 * SQL script and Data source can be found [here](https://github.com/alexquan12/NBA_TeamPerformance)
 
 ![](https://github.com/alexquan12/AlexQuan_Portfolio/blob/main/Screenshots%20of%20Reports/Top%20Team%20Performance%20Report.JPG)
-![image](/images/Top%20Team%20Performance%20Report.JPG)
+![image](/images/TeamPerformance_Report.JPG)
