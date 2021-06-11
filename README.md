@@ -8,4 +8,4 @@ This is a portfolio for my data analyst projects where I present interesting fin
 * Link to interactive report [here](https://app.powerbi.com/view?r=eyJrIjoiYzdjYjVlYmMtYTUxZC00MDVhLWJjOGMtNzQxZTJlZTBmZjI2IiwidCI6IjhhZWI3ZGU3LTdhNDEtNDI0Yy05NGIwLTJlMGNkMGNmM2Q3MiJ9)
 * SQL script and Data source can be found [here](https://github.com/alexquan12/NBA_TeamPerformance)
 
-![](https://github.com/alexquan12/AlexQuan_Portfolio/blob/main/Screenshots%20of%20Reports/Top%20Team%20Performance%20Report.JPG)
+![](https://github.com/alexquan12/NBA_TeamPerformance/blob/main/Screenshot%20of%20Report.JPG)
