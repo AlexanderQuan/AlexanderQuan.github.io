@@ -10,3 +10,4 @@ This is a portfolio for my data analyst projects where I present interesting fin
 
 ![](/Report_Images/TeamPerformance_Report.JPG)
 
+<img src="https://github.com/alexquan12/AlexQuan_Portfolio/blob/main/Report_Images/TeamPerformance_Report.JPG" width="48">
