@@ -1,7 +1,8 @@
 # AlexQuan_Portfolio
 Data Analyst Portfolio
 
-# [PowerBI report on Top Performing Teams in the NBA](https://github.com/alexquan12/NBA_TeamPerformance)
-
-[This Report](https://app.powerbi.com/view?r=eyJrIjoiYzdjYjVlYmMtYTUxZC00MDVhLWJjOGMtNzQxZTJlZTBmZjI2IiwidCI6IjhhZWI3ZGU3LTdhNDEtNDI0Yy05NGIwLTJlMGNkMGNmM2Q3MiJ9&pageName=ReportSection31c96462162e7348a76c) showcases the top contenders in the nba league for each season, and their offensive and defensive performances, leading to their success. 
-*
+# PowerBI report on Top Performing Teams in the NBA
+* Report showcasing top performing teams and their offensive and defensive performances contributing to their success
+* Cleaned and transformed data using SQL Server management studio
+* Link to PowerBI Report [here](https://app.powerbi.com/view?r=eyJrIjoiYzdjYjVlYmMtYTUxZC00MDVhLWJjOGMtNzQxZTJlZTBmZjI2IiwidCI6IjhhZWI3ZGU3LTdhNDEtNDI0Yy05NGIwLTJlMGNkMGNmM2Q3MiJ9)
+* SQL script and Data source can be found [here](https://github.com/alexquan12/NBA_TeamPerformance)
