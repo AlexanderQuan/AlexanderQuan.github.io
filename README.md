@@ -1,4 +1,4 @@
-# Portfolio by Alexander Quan
+# Portfolio
 This is a portfolio for my data analyst projects where I present interesting findings in topics that I am interested in.
 
 ## PowerBI report on Top Performing Teams in the NBA
