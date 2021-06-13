@@ -1,5 +1,5 @@
 # Portfolio
-This portfolio contains my personal projects where I apply my data analyst skills to translate data into insightful visualizations.
+This portfolio contains my personal projects where I apply my analytical skills to translate data into insightful visualizations.
 
 ## PowerBI report on Top Performing Teams in the NBA
 * Report showcasing top performing teams and their offensive and defensive performances contributing to their success
